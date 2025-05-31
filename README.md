@@ -1,6 +1,6 @@
 # Simple Login Practice
 
-This is a basic HTML/CSS login page for practicing frontend login automation.
+This is a basic HTML/CSS login page for practicing frontend login automation (https://denni5lin.github.io/simple-login-practice/).
 
 ## 🔐 Credentials
 
